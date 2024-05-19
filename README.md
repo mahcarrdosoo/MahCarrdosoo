@@ -4,7 +4,7 @@ Meu nome é Maria Clara
 
 - Estou estudando na [Alura](https://wwww.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo este espaço para me organizar e compartilhar meus projetos desenvolvidos
+- Estou utilizando este espaço para me organizar e compartilhar meus projetos desenvolvidos
 
  ### Você pode entrar em contato comigo 📧
 
